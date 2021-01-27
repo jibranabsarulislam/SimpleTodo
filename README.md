@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/UpkFFMI"  ><a href="//imgur.com/a/UpkFFMI">codepath prework</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://i.imgur.com/90117rg.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Imgur
 
