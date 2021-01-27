@@ -45,10 +45,12 @@
         app:layout_constraintTop_toTopOf="@+id/btnAdd" />
 
     <androidx.recyclerview.widget.RecyclerView
-        android:layout_width="412dp"
-        android:layout_height="271dp"
+        android:id="@+id/recyview"
+        android:layout_width="389dp"
+        android:layout_height="253dp"
         app:layout_constraintBottom_toTopOf="@+id/editem"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="-3dp" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
