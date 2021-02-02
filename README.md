@@ -24,9 +24,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a [walkthrough](https://imgur.com/a/UpkFFMI) of implemented user stories:
 
-<img src="https://imgur.com/UpkFFMI.gif" width=500><br>
+<img src="https://imgur.com/a/UpkFFMI.gif" width=500><br>
 
 GIF created with Imgur
 
