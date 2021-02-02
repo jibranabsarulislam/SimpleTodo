@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="http://imgur.com/a/UpkFFMI.gif" width=500><br>
+![](https://imgur.com/a/UpkFFMI.gif)
 
 GIF created with Imgur
 
